@@ -1,0 +1,7 @@
+1. Class and Objects with examples
+2. Why Python is called OOP? - everything in Python is an object (data structure, data type etc)
+3. Advantages of OOPS:
+    > You can create your own data type 
+    > code reusability
+    > debugging 
+    > easy to colab
