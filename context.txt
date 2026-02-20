@@ -5,3 +5,14 @@
     > code reusability
     > debugging 
     > easy to colab
+
+
+4. End to end Project (Chatbook class)
+    > function vs method
+    > magic method or dunder method
+    > self
+    > You can create attribute outside class as well
+
+    > encapsulation
+    > getter and setter
+    > static method
