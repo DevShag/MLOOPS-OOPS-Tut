@@ -13,4 +13,5 @@ class employee:
 
 
 sam = employee()
+sam.name = 'Sam Kumar'
 sam.travel('Kerala')
